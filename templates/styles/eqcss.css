@@ -1,0 +1,5 @@
+@element ".cbsiso" and (max-width: 500px) {
+  .cbsiso {
+    /*background: gold;*/
+  }
+}
